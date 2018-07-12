@@ -1,10 +1,3 @@
-/**
-	Student Full Name: Matthew Abraham
-	Student ID: 815009613
-	E-mail: m.abrahamtt@gmail.com
-	Course Code: COMP 2000
-*/
-
 #include <time.h>
 #include <queue>
 #include <stdio.h>
